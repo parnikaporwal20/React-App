@@ -16,6 +16,8 @@ npm install
 
 Step 3 
 
+download the code from the link provided by code tab >> 
+
 Step 2
 
 npm start
