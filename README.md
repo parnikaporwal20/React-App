@@ -16,8 +16,16 @@ npm install
 
 Step 3 
 
-download the code from the link provided by code tab >> 
+download the code from the link provided by code tab >> Green code button showing down arrow, unzip the code, check you have node_modules folder under the main "react-app-main" folder if you do not have then please copy it from your machine which you got after installing the node.js.
+
+npm install react-redux
 
 Step 2
+
+From command promt move to "react-app-main"  by 
+
+cd react-app-main command
+
+then run below command to run the app on browser on either default port "3000" or any specified port
 
 npm start
